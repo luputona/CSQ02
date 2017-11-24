@@ -1,0 +1,6 @@
+C:\Users\4kigs_09\Documents\CSQ02\hwk\bin\Debug\hwk.exe
+C:\Users\4kigs_09\Documents\CSQ02\hwk\bin\Debug\hwk.pdb
+C:\Users\4kigs_09\Documents\CSQ02\hwk\obj\Debug\hwk.csprojResolveAssemblyReference.cache
+C:\Users\4kigs_09\Documents\CSQ02\hwk\obj\Debug\hwk.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CSQ02\hwk\obj\Debug\hwk.exe
+C:\Users\4kigs_09\Documents\CSQ02\hwk\obj\Debug\hwk.pdb

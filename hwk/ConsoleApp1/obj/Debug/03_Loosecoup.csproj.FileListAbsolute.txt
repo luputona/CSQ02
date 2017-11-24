@@ -1,0 +1,6 @@
+C:\Users\4kigs_09\Documents\CSQ02\hwk\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\4kigs_09\Documents\CSQ02\hwk\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\4kigs_09\Documents\CSQ02\hwk\ConsoleApp1\obj\Debug\03_Loosecoup.csprojResolveAssemblyReference.cache
+C:\Users\4kigs_09\Documents\CSQ02\hwk\ConsoleApp1\obj\Debug\03_Loosecoup.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CSQ02\hwk\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\4kigs_09\Documents\CSQ02\hwk\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

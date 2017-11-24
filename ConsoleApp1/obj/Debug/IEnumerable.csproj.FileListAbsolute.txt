@@ -1,0 +1,5 @@
+C:\Users\4kigs_09\Documents\CSQ02\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\4kigs_09\Documents\CSQ02\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\4kigs_09\Documents\CSQ02\ConsoleApp1\obj\Debug\IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\4kigs_09\Documents\CSQ02\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\4kigs_09\Documents\CSQ02\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
